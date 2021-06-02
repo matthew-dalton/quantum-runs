@@ -54,6 +54,6 @@ scipy==1.4.1
 six==1.14.0
 sympy==1.5.1
 threadpoolctl==2.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 websockets==7.0
 zipp==3.1.0
